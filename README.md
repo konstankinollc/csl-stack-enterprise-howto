@@ -1,6 +1,6 @@
 ## CSL Scanner Enterprise
 
-![CSL Scanner - Flowchart](https://github.com/konstankinollc/csl-stack-enterprise-howto/blob/master/CSL%20Scanner%20-%20Flowchart.png)
+![CSL Scanner - Flowchart](https://github.com/konstankinollc/csl-stack-enterprise-howto/blob/main/CSL%20Scanner%20-%20Flowchart.png)
 
 ### Prerequisites
 
