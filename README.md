@@ -30,8 +30,8 @@ The CSL Scanner shall be deployed using Terraform templates in the following ord
 
 1. Network layer
 2. EC2 layer
-3. Glue layer
-4. API layer
+3. API layer
+4. Glue layer
 
 To deploy each layer please refer to appropriate git repository folder.
 
